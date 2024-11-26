@@ -2,7 +2,7 @@
 
 from geopy.distance import distance
 from dbconfig import *
-
+  
 # import sys # getting data from php
 
 # data = sys.argv[1]

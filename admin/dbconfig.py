@@ -7,3 +7,4 @@ db_config = {
     'password': '',   # Your MySQL password
     'database': 'safetogether'    # Name of the database you want to connect to
 }
+ 

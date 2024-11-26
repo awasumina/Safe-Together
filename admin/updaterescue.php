@@ -4,11 +4,6 @@ include 'db.php';
 
 session_start();
 
-// $username = $_SESSION['username'];
-
-// if(!isset($username)){
-//    header('location:../html/login.php');
-// };
 
 ?>
 <?php
