@@ -95,7 +95,7 @@ The system connects **victims**, **rescuers**, and **relief points** through:
    - Emergency Contacts
    - Relief Points
 4. **Admin Panel:**
-   - Add epicenter details.
+   - Add epicenter details.  
    - Send alerts to affected areas.
    - Assign rescue teams.
 5. **Relief Distribution:** Free resources for victims.
