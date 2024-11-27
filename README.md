@@ -94,7 +94,7 @@ The system connects **victims**, **rescuers**, and **relief points** through:
    - Medical ID
    - Emergency Contacts
    - Relief Points
-4. **Admin Panel:**
+4. **Admin Panel:**  
    - Add epicenter details.  
    - Send alerts to affected areas.
    - Assign rescue teams.
